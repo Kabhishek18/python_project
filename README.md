@@ -19,6 +19,10 @@ Create environment
 ~~~Python
     python -m venv env
 ~~~
+Install requirements for environment
+~~~Python
+pip install -r requirements.txt
+~~~
 
 Activate the virtual environment 
 
@@ -44,3 +48,5 @@ For Ubuntu| Linux Machine
     9. Url Shortner (Bitly)
     10. Weather App
 2. [Intermediate](#Intermediate)  
+2. [Advanced](#Advanced)  
+
