@@ -48,5 +48,8 @@ For Ubuntu| Linux Machine
     9. Url Shortner (Bitly)
     10. Weather App
 2. [Intermediate](#Intermediate)  
-2. [Advanced](#Advanced)  
+3. [Advanced](#Advanced)  
+4. [Tutorial](#Tutorial)
+5. [Object Oriented](#object_oriented)
+
 
