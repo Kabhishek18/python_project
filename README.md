@@ -51,5 +51,6 @@ For Ubuntu| Linux Machine
 3. [Advanced](#Advanced)  
 4. [Tutorial](#Tutorial)
 5. [Object Oriented](#object_oriented)
+6. [Mini Projects](#mini_projects)
 
 
